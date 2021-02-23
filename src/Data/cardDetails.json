@@ -1,0 +1,38 @@
+{
+    "card_1": {
+        "card__title": "car",
+        "image__url": "/unplash_car.jpg",
+        "newPage__url": "https://www.google.com/",
+        "card__details": "Powerful and Styling car."
+    },
+    "card_2": {
+        "card__title": "Food",
+        "image__url": "/food_unplash.jpg",
+        "newPage__url": "https://www.zomato.com/akola/restaurants?context=delivery",
+        "card__details": "sadnlsnclanclam lckmalkcmacmakmcamcmacma sdadadafdmalifhcnalincialncinaiclnain"
+    },
+    "card_3": {
+        "card__title": "Yummy Food",
+        "image__url": "/food_2_unplash.jpg",
+        "newPage__url": "https://www.zomato.com/akola/restaurants?context=delivery",
+        "card__details": "So Delicious"
+    },
+    "card_4": {
+        "card__title": "Paneer curry",
+        "image__url": "https://b.zmtcdn.com/data/dish_images/c55483ecbe4028eff3ed32cb0ebdd2241613993328.png",
+        "newPage__url": "https://www.zomato.com/akola/restaurants?context=delivery",
+        "card__details": "Gravy prepared usually with butter,tomatoes, cashews & cream with Cottage cheese."
+    },
+    "card_5": {
+        "card__title": "Paneer Butter Masala",
+        "image__url": "https://b.zmtcdn.com/data/dish_photos/f1c/b96ac428a20b6a080831af1f4e8abf1c.jpg",
+        "newPage__url": "https://www.swiggy.com/",
+        "card__details": "Gravy prepared usually with butter,tomatoes, cashews & cream with Cottage cheese"
+    },
+    "card_6": {
+        "card__title": "Dominos Pizza",
+        "image__url": "https://b.zmtcdn.com/data/dish_photos/665/febfde767bd3543e6b8d9094f2531665.jpg",
+        "newPage__url": "https://www.swiggy.com/",
+        "card__details": "Pizza Fast food"
+    }
+}
